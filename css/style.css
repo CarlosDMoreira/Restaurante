@@ -15,30 +15,6 @@ html {
   height: 100vh;
 }
 
-.nave ul {
-  display: flex;
-  flex-direction: row-reverse;
-  text-decoration: none;
-  list-style: none;
-  background-color: #000;
-}
-
-.nave ul li {
-  padding: 10px;
-  margin: 10px;
-}
-
-.nave ul li:hover {
-  padding: 10px;
-  margin: 10px;
-}
-
-.nave ul li a {
-  text-decoration: none;
-  color: #fff;
-  font-size: 32px;
-}
-
 .presentation {
   display: flex;
   flex-direction: column;
